@@ -24,7 +24,7 @@
   }
   
   .alignright {
-    float: right;
+    float: left;
     padding: 0 0 10px 10px; /* note the padding around a right floated image */
   }
   
